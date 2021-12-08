@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1597830255 source:c:\users\snorlax\exercises\1023\main.cpp
+	<iostream>
+	<algorithm>
+

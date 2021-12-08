@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1582777111 source:c:\users\snorlax\exercises\_eoj\programming design\1044\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590814588 source:c:\users\snorlax\exercises\lenovoc\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+

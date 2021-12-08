@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1579845789 source:c:\users\snorlax\exercises\1017\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1582715234 source:c:\users\snorlax\exercises\_eoj\programming design\1017\main.c
+	<stdio.h>
+	<stdlib.h>
+
